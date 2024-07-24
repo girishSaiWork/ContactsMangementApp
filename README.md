@@ -3,7 +3,8 @@
 This project is a simple Contact List CRUD (Create, Read, Update, Delete) application built using Flask, a lightweight WSGI web application framework in Python. The application allows users to manage a contact list by adding, viewing, updating, and deleting contacts. Each contact entry consists of a first name, last name, and email address.
 
 
- ![Alt text](./images/demo.png)
+![demo](https://github.com/user-attachments/assets/a0f4adc7-351e-4768-8e05-6eb2da7cf558)
+
 
 ## Features
 
